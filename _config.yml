@@ -30,7 +30,7 @@ twitter_username: Abhijit16767242
 github_username:  adas2327
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
