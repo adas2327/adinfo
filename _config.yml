@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Just working hard is not enough, working hard to make an impact is essential
+title: Working hard to make an impact!
 email: abhijit.das@ieee.org
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my page! Please browse through the topics on the left as you feel interested. 
